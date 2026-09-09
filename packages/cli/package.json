@@ -9,7 +9,7 @@
     "@voltagent/evals": "^2.0.2",
     "@voltagent/internal": "^1.0.2",
     "@voltagent/sdk": "^2.0.2",
-    "adm-zip": "^0.5.12",
+    "adm-zip": "^0.6.0",
     "boxen": "^5.1.2",
     "bundle-require": "^5.1.0",
     "chalk": "^4.1.2",
