@@ -14,7 +14,7 @@
     "@voltagent/server-hono": "^2.0.0",
     "ai": "^6.0.0",
     "dotenv": "^16.4.5",
-    "sharp": "^0.34.4",
+    "sharp": "^0.35.4",
     "zod": "^3.25.76"
   },
   "devDependencies": {
