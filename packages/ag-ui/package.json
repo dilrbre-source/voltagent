@@ -14,7 +14,7 @@
     "@voltagent/internal": "^1.0.2",
     "tsup": "^8.5.0",
     "typescript": "^5.8.2",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.11"
   },
   "exports": {
     ".": {
