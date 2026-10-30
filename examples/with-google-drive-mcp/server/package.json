@@ -11,7 +11,7 @@
     "@voltagent/server-hono": "^2.0.14",
     "composio-core": "^0.5.33",
     "hono": "^4.7.7",
-    "zod": "^3.25.76",
+    "zod": "^4.6.6",
     "zod-from-json-schema": "^0.5.0"
   },
   "devDependencies": {
