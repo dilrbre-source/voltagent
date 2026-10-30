@@ -9,7 +9,7 @@
     "@voltagent/serverless-hono": "^2.0.12",
     "dotenv": "^16.4.5",
     "wrangler": "^3.38.0",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.2.1",

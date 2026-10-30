@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@voltagent/core": "^2.9.2",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "exports": {
     ".": {
